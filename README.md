@@ -55,6 +55,3 @@ curl -L http://localhost:8080/api/v1/{code}
 | `GET`  | `/api/v1/getCode/{code}` | Get details of a specific short URL |
 | `GET`  | `/api/v1/{code}`       | Redirect to the original URL        |
 | `POST` | `/api/v1/create`       | Create a new short URL              |
-
-## Screenshots
-*(Add screenshots of Postman or API testing here)*
